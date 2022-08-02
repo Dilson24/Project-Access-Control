@@ -1,0 +1,30 @@
+2022-03-11 04:27:28: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>76</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>67</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>76</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>67</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>76</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>67</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>76</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>67</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>76</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\practica\library\phpqrcode\lib\full\qrsplit.php</b> on line <b>67</b><br />
