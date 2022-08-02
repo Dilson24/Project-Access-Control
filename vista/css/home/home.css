@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+html{
+  scroll-behavior: smooth;
+}
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+
+}
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1em;
+    color: #fff;
+}
+a:hover {
+  color: #FF8138;  
+  text-decoration: underline; 
+}
+li {
+    list-style: none;
+    margin-right: 2.5em;
+}
+.menu {
+    background-color: #1C1F23;
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.menu span {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-left:1.5em;
+
+}
+.menu span a {
+  color: #fff;
+}
+
+.user{
+  color: #FF8138 !important;
+}
+.list {
+    display: flex;
+}
+.content_icons {
+    display: none;
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    cursor: pointer;
+}
+
+.content_icons .icon_close {
+    color: #1C1F23;
+    font-size: 2em;
+}
+
+.content_icons .icon_multi {
+    color: #1C1F23;
+    font-size: 2em;
+}
+
+.btn {
+    transition: 0.3s transform;
+}
+
+.btn:active {
+    transform: scale(0.9);
+}
+
+.icon_none {
+    display: none;
+}
+
+/*contenido*/
+
+.info{
+  margin-top: 40px;
+}
+
+table.customTable {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border: hidden;
+  color: #1C1F23;
+  margin-top: 90px;
+}
+
+.rows, th {
+  border-bottom-color: #1C1F23;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  padding: 30px 20px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+.principal {
+  font-size: 20px;
+  color: #fff;
+  background-color: #1C1F23;
+  padding: 20px 20px;
+
+}
+
+.download > a{
+  margin-top: 5em;
+  display: inline-block;
+  background-color: transparent;
+  border-radius: 5px;
+  border: 3px solid black;
+  justify-self: center;
+  text-decoration: none;
+  color: #1C1F23;
+  padding: 13px 30px;
+  border-radius: 10px;
+
+}
+.add{
+  margin-bottom: 80px;
+}
+@media screen and (max-width: 750px) {
+  .content_icons {
+        display: block;
+    }
+
+    .menu {
+        height: 100vh;
+        position: fixed;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+        transition: all 1s;
+        margin-left: -100%;
+    }
+
+    .menu_show {
+        margin-left: 0;
+    }
+
+    .list {
+        flex-direction: column;
+    }
+
+    .menu span {
+        font-size: 1em;
+        margin-right: auto;
+    }
+
+    .list li {
+        margin-right: 0;
+        margin-top: 1em;
+    }
+}
+/*operador*/
+.camara{
+  height: 100vh;
+}
+.operador{
+  margin-top: 50px;
+}
