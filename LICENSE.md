@@ -20,20 +20,3 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-- Spanish
-
-Licencia MIT (MIT)
-
-Copyright (c) 2021-2022 'Control de acceso' por Mayerly Quintero, Sneyder Duran, Esteban Gonzalez, Alfonso Gámez, Dilson Cruz
-
-Por la presente se concede permiso, libre de cargo, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), a comerciar con el Software sin restricción alguna, incluyendo sin limitación, los derechos de uso, copia, modificación, fusión, publicación
-distribuir, sublicenciar y/o vender copias del Software, y a sublicenciar y/o vender copias del Software, y a permitir que las personas a las que se proporcione el Software lo hagan, sujeto a las siguientes condiciones las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
-incluidos en todas las copias o partes sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE
-COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN
-RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO TIPO, DERIVADA DE, O RELACIONADA CON
-CON EL SOFTWARE O EL USO U OTRAS OPERACIONES CON EL SOFTWARE.
