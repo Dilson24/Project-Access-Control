@@ -1,4 +1,4 @@
-Licencia MIT
+The MIT License (MIT)
 
 Copyright (c) 2021-2022 - 'Control de acceso' by Mayerly Quintero, Sneyder Duran, Esteban Gonzalez, Alfonso Gámez, Dilson Cruz.  
 
@@ -22,7 +22,7 @@ SOFTWARE.
 
 *** English ***
 
-MIT license
+The MIT License (MIT)
 
 Copyright (c) 2021-2022 - 'Access control' by Mayerly Quintero, Sneyder Duran, Esteban Gonzalez, Alfonso Gámez, Dilson Cruz.
 
